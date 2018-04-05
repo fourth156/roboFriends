@@ -1,5 +1,5 @@
 # roboFriends
-A simple website that display list of robots and intergrated search feature.
+A simple website that display list of robots and intergrated search feature. Written in React
 
 To run the project
 
